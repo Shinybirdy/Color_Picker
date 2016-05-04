@@ -1,0 +1,32 @@
+h1 {
+  font-family: "Alize", Impact, sans-serif
+}
+
+.redBlock{
+  width: 100px;
+  height: 100px;
+  background: red;
+  color: red;
+  float: left;
+}
+
+.greenBlock{
+  width: 100px;
+  height: 100px;
+  background: green;
+  float: left;
+}
+
+.yellowBlock{
+  width: 100px;
+  height: 100px;
+  background:yellow;
+  float: left;
+}
+
+.blueBlock{
+  width: 100px;
+  height: 100px;
+  background: blue;
+  float: left;
+}
